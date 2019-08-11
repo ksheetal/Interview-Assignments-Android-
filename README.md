@@ -1,7 +1,3 @@
-# Interview-Assignments-Android-
-Repository contains all interview assignment(s) (Android/Front-End Developer, Mobile Apps, Graphic Designer))
-
-
 ## Interview-Assignments-Android-
 The repository contains all interview assignment(s) (Android/Front-End Developer, Mobile Apps, Graphic Designer))
 
